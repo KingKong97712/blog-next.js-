@@ -1,0 +1,38 @@
+{
+    "resources": [
+      {
+        "title": "JAMIESON",
+        "imageUrl": "images/product_carousel/Product1.png"
+        
+      },
+      {
+        "title": "JAMIESON2",
+        "imageUrl": "/images/product_carousel/Product2.png"
+      },
+      {
+        "title": "JAMIESON3",
+        "imageUrl": "/images/product_carousel/Product3.png"
+      },
+      {
+        "title": "JAMIESON4",
+        "imageUrl": "/images/product_carousel/Product3.png"
+      },
+      {
+        "title": "JAMIESON",
+        "imageUrl": "images/product_carousel/Product1.png"
+        
+      },
+      {
+        "title": "JAMIESON2",
+        "imageUrl": "/images/product_carousel/Product2.png"
+      },
+      {
+        "title": "JAMIESON3",
+        "imageUrl": "/images/product_carousel/Product3.png"
+      },
+      {
+        "title": "JAMIESON4",
+        "imageUrl": "/images/product_carousel/Product3.png"
+      }
+    ]
+  }
